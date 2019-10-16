@@ -1,0 +1,39 @@
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.exe.config
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.pdb
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.Properties.Resources.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.RefrigeratorUi.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csproj.GenerateResource.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csproj.CoreCompileInputs.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority2\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.pdb
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorAppPractice3\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.exe.config
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorAppPractice3\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.exe
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorAppPractice3\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.pdb
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csprojAssemblyReference.cache
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.Properties.Resources.resources
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.RefrigeratorUi.resources
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csproj.GenerateResource.cache
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csproj.CoreCompileInputs.cache
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.exe
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorAppPractice3\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.pdb
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Copy Richtext\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.exe.config
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Copy Richtext\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.exe
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Copy Richtext\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.pdb
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Copy Richtext\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csprojAssemblyReference.cache
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Copy Richtext\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.Properties.Resources.resources
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Copy Richtext\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.RefrigeratorUi.resources
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Copy Richtext\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csproj.GenerateResource.cache
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Copy Richtext\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csproj.CoreCompileInputs.cache
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Copy Richtext\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.exe
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Copy Richtext\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.pdb
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Richtext - Copy\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.exe.config
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Richtext - Copy\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.exe
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Richtext - Copy\RefrigeratorAppPractice3\bin\Debug\RefrigeratorAppPractice3.pdb
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Richtext - Copy\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csprojAssemblyReference.cache
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Richtext - Copy\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.Properties.Resources.resources
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Richtext - Copy\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.RefrigeratorUi.resources
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Richtext - Copy\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csproj.GenerateResource.cache
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Richtext - Copy\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.csproj.CoreCompileInputs.cache
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Richtext - Copy\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.exe
+D:\Bitm- Seip '19\Assignments And works\RefrigeratorApp - Richtext - Copy\RefrigeratorAppPractice3\obj\Debug\RefrigeratorAppPractice3.pdb
